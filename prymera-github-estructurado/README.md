@@ -1,4 +1,4 @@
-# Prymera Bank - Proyecto Web Full Stack
+# Prymera Bank - 
 
 Proyecto académico inspirado en la página oficial de Prymera: https://prymera.pe/
 
