@@ -26,7 +26,7 @@ Sistema web tipo banco/financiera con frontend en React y backend en ASP.NET Cor
 - C#
 - Controllers, Models, DTOs y Utils
 
-## Estructura del proyecto
+## Estr
 ```txt
 prymera-github-estructurado/
 ├── backend/
